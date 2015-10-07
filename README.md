@@ -11,4 +11,4 @@ node seed.js
 - You do not have Mongo installed
 - You might not have Mongo running
 - You do not have an internet connection
-- Run there is a zombie behind you
+- Run! there is a zombie behind you!
